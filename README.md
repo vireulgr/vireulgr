@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vireulgr
 - 👀 I’m interested in C++, web development
-- 🌱 I’m currently learning how to make AR applications using Unity
+- 🌱 I’m currently learning how to make games in Unity
 
 <!---
 vireulgr/vireulgr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
